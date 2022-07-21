@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Caneta biq azul alterado",
+      "price": 14.99,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Caderno",
+      "price": 12.99
+    },
+    {
+      "id": 3,
+      "name": "Laptop lenovo i5",
+      "price": 1399.99
+    },
+    {
+      "id": 4,
+      "name": "Cooler Razer RGB",
+      "price": 499.99
+    },
+    {
+      "name": "Produto teste",
+      "price": "1.000",
+      "id": 5
+    },
+    {
+      "name": "Outro produto teste",
+      "price": "10000",
+      "id": 6
+    },
+    {
+      "name": "Para alterar",
+      "price": "1500",
+      "id": 7
+    },
+    {
+      "name": "Novo produto",
+      "price": "20000",
+      "id": 8
+    }
+  ]
+}
